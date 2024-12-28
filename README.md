@@ -1,4 +1,4 @@
-# Is Linux easy to use
+# Is Linux easy to use？
 When Linux was born, there was no graphical interface, and users could only interact with computers through the command line.
 At that time, computer interfaces were mostly black and white terminals, and all operations were realized by inputting various commands on the command line.
 Even now, although linux provides a graphical interface and UI, developers still need to use cmd for various system operations. The premise is that we learn how to use cmd. For example, common commands, such as ls, cd, mkdir, top, df, du, cat, grep, find, vi, etc. Linux provides hundreds of common commands, which cover file management, user management, network configuration, system monitoring and other aspects.
